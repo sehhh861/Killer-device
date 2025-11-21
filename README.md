@@ -1,2 +1,1 @@
-# Ez
-Uh
+#ez kill
